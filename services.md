@@ -27,3 +27,7 @@
 
      ServiceType: ExternalIP
                         
+
+
+      
+Telepresence is an open source tool that lets developers code and test microservices locally against a remote Kubernetes cluster. Telepresence facilitates more efficient development workflows while relieving the need to worry about other service dependencies                  

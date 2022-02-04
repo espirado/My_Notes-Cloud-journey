@@ -35,3 +35,15 @@ We have a couple potential approaches to measure correctness:
 
 Inject data with known outputs into the system, and count the proportion of times that the output matches our expectations.
 Use a method to calculate correct output based on input that is distinct from our pipeline itself (and likely more expensive, and therefore not suitable for our pipeline). Use this to sample input/output pairs, and count the proportion of correct output records. This methodology assumes that creating such a system is both possible and practical.
+
+
+
+# Databases
+ACID properties
+
+Set of properties that guarantee data integrity of DB transactions
+
+Atomicity: Each transaction is atomic (succeeds or fails completely)
+Consistency: Transactions only result in valid state (which includes rules, constraints, triggers etc.)
+Isolation: Each transaction is executed independently of others safely within a concurrent system
+Durability: Completed transactions will not be lost due to any later failures

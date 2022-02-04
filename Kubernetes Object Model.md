@@ -41,3 +41,8 @@ Controllers use Label Selectors to select a subset of objects.
   A rolling update is triggered when we update specific properties of the Pod Template for a deployment.
   # Namespaces
   If multiple users and teams use the same Kubernetes cluster we can partition the cluster into virtual sub-clusters                
+
+
+
+
+  
