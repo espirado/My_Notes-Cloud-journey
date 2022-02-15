@@ -42,3 +42,7 @@ Objectives of algorithms and data structures
 Communicating solution to others
        a)Prove Correctness of solution
        b)Argue Efficiency of solution
+
+
+# set arrays
+       
