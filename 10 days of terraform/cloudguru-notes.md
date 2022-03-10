@@ -7,3 +7,9 @@ Modules Types
     - version
     - input variables
     - meta- arguments 
+
+
+ # Troubleshooting kubernetes
+   - Healthchecks 
+     - policies to auto restart
+     - liveness probe    
