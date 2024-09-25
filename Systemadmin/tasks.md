@@ -16,3 +16,13 @@ Linux SSH Authentication
 MariaDB Troubleshooting
 # day 9
 Linux Run Levels
+
+Linux commands 
+
+wc - 
+grep -
+cut - 
+head - 
+sort -
+uniq - 
+

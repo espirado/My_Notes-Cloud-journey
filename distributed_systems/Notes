@@ -1,0 +1,23 @@
+Reading list https://dancres.github.io/Pages/
+
+
+-  service efficient to automate? Is it what we refer to more generally as operations-friendly? Services that are operationsfriendly require little human intervention, and both detect and recover from all but the most obscure
+failures without administrative intervention. 
+   - Expect failures. A component may crash or be
+stopped at any time
+   - Keep things simple. Complexity breeds problems
+   - Automate everything
+
+   # Operation process
+
+     -  Design for failure. The entire service must be capable of
+surviving failure without human administrative
+interaction. Failure recovery must be a very simple path and that path must be tested frequently
+
+     -  Redundancy and fault recovery.  Designing a service such that any system can
+crash (or be brought down for service) at any time while still meeting the service level agreement (SLA) requires careful engineering. The acid test for full compliance with this design principle is the following: is the operations team willing and able to bring down any server in the service at any time without
+
+    - Commodity hardware slice - 
+    - Single-version software
+    - Multi-tenancy
+    - Enforce admission control at all levels

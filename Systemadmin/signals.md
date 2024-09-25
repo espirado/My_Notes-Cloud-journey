@@ -1,0 +1,1 @@
+In linux kernel signals are a mechanism for ipc 
