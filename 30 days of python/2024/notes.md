@@ -56,3 +56,9 @@ Day 14: Project Implementation - Web Service
 Theory: Use the skills you’ve acquired to start a full project from scratch.
 Practice: Begin implementing a web service using Flask/Django following TDD principles.
 Challenge: Apply version control and follow best practices to ensure code quality.
+
+
+protoPayload.status.message="Resource satacs-be-prd:carCrdEadCloudFunctionErrorLogs.cloudfunctions_googleapis_com_cloud_functions_20241011 did not meet condition IF_MATCH"
+="carCrdEadCloudFunctionErrorLogs"
+="satacs-be-prd"
+d="cloudfunctions_googleapis_com_cloud_functions_20241011"
